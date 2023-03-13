@@ -14,7 +14,10 @@ To run this application, you will need Java installed on your computer. You can 
 ## Configuration
 This application uses the OpenAI API to generate responses. To use the API, you will need to provide an API key. You can sign up for an OpenAI API key on the OpenAI website.
 
+
 Once you have an API key, you can set it in the ```CHATGPT_API_KEY``` constant in the ChatbotApplication.java file.
 
 ## Troubleshooting
 If you encounter any problems while running this application, please refer to the error message for more information. If you are unable to resolve the issue, please open an issue on the repository and we will try to help you out.
+
+
